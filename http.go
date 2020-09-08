@@ -12,7 +12,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/arstd/log"
+	"github.com/pvol/log"
 )
 
 type wxResp interface {

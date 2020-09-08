@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/arstd/log"
+	"github.com/pvol/log"
 )
 
 // tick := time.Tick(7 * time.Second)

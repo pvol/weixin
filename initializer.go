@@ -5,7 +5,7 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/arstd/log"
+	"github.com/pvol/log"
 )
 
 // TConfig 配置

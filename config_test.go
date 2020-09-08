@@ -3,7 +3,7 @@ package weixin
 import (
 	"time"
 
-	"github.com/arstd/log"
+	"github.com/pvol/log"
 )
 
 // 微信公众平台测试号

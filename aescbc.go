@@ -6,7 +6,7 @@ import (
 	"crypto/cipher"
 	"fmt"
 
-	"github.com/arstd/log"
+	"github.com/pvol/log"
 )
 
 // AESCBCEncrypt 采用 CBC 模式的 AES 加密

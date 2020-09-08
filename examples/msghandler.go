@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 
-	"github.com/arstd/log"
-	"github.com/arstd/weixin"
+	"github.com/pvol/log"
+	"github.com/pvol/weixin"
 )
 
 func defaultHandler(msg *weixin.Message) weixin.ReplyMsg {

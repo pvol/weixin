@@ -3,7 +3,7 @@ package weixin
 import (
 	"testing"
 
-	"github.com/arstd/log"
+	"github.com/pvol/log"
 )
 
 func TestGetTokenByCode(t *testing.T) {

@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/arstd/log"
-	"github.com/arstd/weixin"
+	"github.com/pvol/log"
+	"github.com/pvol/weixin"
 )
 
 // EventDefaultHandler 注册默认处理器

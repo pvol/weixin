@@ -1,6 +1,6 @@
 package weixin
 
-import "github.com/arstd/log"
+import "github.com/pvol/log"
 
 // 各类消息处理器
 var (

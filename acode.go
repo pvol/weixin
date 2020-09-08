@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/arstd/log"
+	"github.com/pvol/log"
 )
 
 const (

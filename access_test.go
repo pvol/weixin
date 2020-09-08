@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/arstd/log"
+	"github.com/pvol/log"
 )
 
 const (

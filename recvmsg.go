@@ -1,6 +1,6 @@
 package weixin
 
-import "github.com/arstd/log"
+import "github.com/pvol/log"
 
 // RecvMsg 用户消息
 type RecvMsg interface{}
